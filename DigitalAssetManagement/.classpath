@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/mypc/Downloads/mysql-connector-j-8.0.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mypc/Downloads/junit-platform-console-standalone-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mypc/Downloads/mockito-core-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mypc/Downloads/objenesis-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mypc/Downloads/junit-4.13.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
